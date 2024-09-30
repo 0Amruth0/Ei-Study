@@ -1,0 +1,3 @@
+ Lets say we have a pet store and we have different animals for sale, like dogs and cats. When a customer asks for a specific pet, we dont go to the specific kennel and pick one. Instead, we ask one of the workers to bring us the requested animal. 
+
+ This is similar to the Factory Method Pattern. it's more or less a way to create objects without specifying their exact type directly. We delegate this object creation to a factory method.
