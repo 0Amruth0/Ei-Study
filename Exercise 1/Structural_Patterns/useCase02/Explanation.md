@@ -1,0 +1,1 @@
+Lets assume a coffee shop where we can order basic coffee and then add on various extras like milk, sugar, whipped cream etc. Instead of creating a new class for each possible combination of coffee and extras, we can use the Decorator pattern to dynamically add these features.
