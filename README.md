@@ -15,3 +15,4 @@ The program has implementation for :
 'R' for turning right
 3. Obstacle detection. If an obstacle is detected in the path, the Rover does not move.
 4. For the Rover to send a status report containing its current position and facing direction.
+The program follows the Object Oriented Programming paradigm.
